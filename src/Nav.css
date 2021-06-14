@@ -1,0 +1,41 @@
+.navbar{
+    background-color: black !important;
+    margin: 0 auto !important;
+    opacity: 0.5 !important;
+}
+.logi{
+    text-shadow: 2px 2px 2px navajowhite;
+    margin-left: 50px !important;
+}
+.lists{
+    margin-left: 600px !important;
+}
+.nav-item{
+    margin-left: 30px !important;
+}
+.nav-link{
+    color: white !important;
+}
+
+.log:hover{
+    color: cyan !important;
+}
+.logi:hover{
+    color: cyan !important;
+}
+
+@media only screen and (max-width: 900px) {
+    .lists  {
+        margin-left: 400px !important;
+    }
+  }
+  @media only screen and (max-width: 700px) {
+    .lists  {
+        margin-left: 350px !important;
+    }
+  }
+  @media only screen and (max-width: 400px) {
+    .lists  {
+        margin-left: 100px !important;
+    }
+  }

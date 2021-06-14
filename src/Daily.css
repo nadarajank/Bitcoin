@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.title{
+    text-align: center;
+    background-color: cornflowerblue;
+    min-height: 350px;
+    margin-left: 200px;
+    margin-right: 200px;
+    /* margin-top: 20px; */
+    border: 3px solid black;
+    border-radius: 10px;
+    
+}
+.header{
+    padding: 20px;
+}
+.head{
+    border-bottom: 2px solid black;
+}
+.dill{
+    cursor: pointer;
+}
+.task{
+    text-decoration: line-through;
+}
+.para{
+    font-size: 30px;
+    margin-top: 20px;
+}
+.your{
+    margin-left: -500px;
+    padding-top: 20px;
+}
+.btn{
+    padding: 10px;
+    background-color: darkmagenta;
+    color: whitesmoke;
+    border-radius: 20px;
+    outline: none;
+    border : 2px solid black
+}
+.btn:hover{
+    color: blanchedalmond;
+    background-color: black;
+}
+.input{
+    padding: 10px;
+    border: 3px solid black;
+    border-radius: 20px;
+    width: 350px;
+    padding-right: 10px;
+    outline: none;
+    margin-left: 100px;
+    margin-bottom: 20px;
+    
+}
+.but{
+    padding: 10px;
+    background-color: darkmagenta;
+    color: whitesmoke;
+    border-radius: 20px;
+    outline: none;
+    border : 2px solid black;
+    margin-left: 20px;
+}
+.but:hover{
+    color: blanchedalmond;
+    background-color: black;
+}

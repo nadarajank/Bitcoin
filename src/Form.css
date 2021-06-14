@@ -1,0 +1,17 @@
+.inpu{
+    width: 400px;
+}
+.total{
+    margin-left: 450px;
+    margin-top: 50px;
+}
+.dull{
+    color: whitesmoke;
+    background-color: green;
+    width: 200px;
+    padding: 2px;
+    text-indent: 28px;
+}
+.error{
+    color: red;
+}

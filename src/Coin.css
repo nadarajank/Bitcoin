@@ -1,0 +1,92 @@
+.natti{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+ .patti{
+    display: flex;
+    flex-direction:  row;
+    justify-items :center;
+    height: 8px;
+    border-bottom: 2px solid #d7d7d7;
+    width: 900px;
+}
+.kitti{
+    display: flex;
+    align-items: center;
+    padding-right: 24px;
+    min-width: 500px;
+}
+.kitti h1{
+    font-size: 16px;
+    width: 150px;
+    }
+.kitti img{
+    height: 30px;
+    width: 30px;
+    margin-right: 10px;
+}
+.para{
+    text-transform: uppercase;
+}
+.kara{
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    width: 100%;
+    margin-top: -10px;
+}
+.nara{
+    width: 110px;
+}
+.lara{
+    width: 155px;
+}
+.red{
+    color: red;
+}
+.green{
+    color: green;
+}
+.tot{
+    background-color: lightgrey;
+    min-height: 500px;
+    /* margin-top: 100px; */
+}
+.total-2{
+   margin-left: 500px;
+}
+.hel{
+    margin-bottom: 20px;
+    text-shadow: 4px 4px 1px white;
+}
+.in{
+    margin-left: 50px;
+    border-radius: 30px;
+    outline: none;
+    padding: 10px;
+    }
+.order{
+    display: flex;
+    flex-direction: row;
+} 
+li{
+    list-style: none;
+    margin-top: 60px;
+    border-bottom: 1px solid black;
+    /* text-shadow: 4px 4px 1px white; */
+    font-weight: bolder;
+}
+.name{
+    margin-left: -235px;
+}
+.nam{
+    
+    margin-left: 455px;
+}
+.na{
+    margin-left: 120px;
+}
+.n{
+    margin-left: 60px;
+}

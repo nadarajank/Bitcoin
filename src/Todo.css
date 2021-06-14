@@ -1,0 +1,6 @@
+.task-name{
+    cursor: pointer;
+}
+.cop-task{
+    text-decoration: line-through;
+}
